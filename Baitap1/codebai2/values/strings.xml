@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baitap2</string>
+    <string name="randomresult" />
+    <string name="pressrandom">Random number</string>
+</resources>
