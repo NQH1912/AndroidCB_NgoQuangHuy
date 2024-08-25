@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baitap1</string>
+    <string name="result" >ket qua</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiplied">*</string>
+    <string name="divided">/</string>
+    <string name="percent">%</string>
+</resources>
